@@ -1,6 +1,6 @@
-/*
-My Java Project.
- */
+/**
+ * Simple project to test arithmetic functions
+ **/
 package arthimetic;
 
 import java.util.Scanner;
